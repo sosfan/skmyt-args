@@ -1,0 +1,3 @@
+{
+  "args": "--extractor-args youtube:player_client=default,-android_sdkless"
+}
