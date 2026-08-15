@@ -1,3 +1,3 @@
 {
-  "args": "--extractor-args youtube:player_client=web_embedded,tv_downgraded"
+  "args": "--sleep-requests 2 --sleep-interval 4 --extractor-args youtube:player_client=web_embedded,tv_downgraded"
 }
